@@ -1,0 +1,25 @@
+﻿/* styles for validation helpers */
+.field-validation-error {
+    color: #d16e6c;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #d16e6c;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #d16e6c;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+.loader { background: url("images/loading.gif") no-repeat scroll center center rgba(0, 0, 0, 0.5); height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: 99999; }

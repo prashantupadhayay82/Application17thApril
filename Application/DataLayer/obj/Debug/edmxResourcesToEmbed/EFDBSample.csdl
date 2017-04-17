@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBSampleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblFunctionMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ParentId" Type="Int64" />
+    <Property Name="FunctionName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblJobFunctionRelationWithPKs" Relationship="Self.FK_tblJobFunctionRelationWithPK_tblFunctionMaster" FromRole="tblFunctionMasters" ToRole="tblJobFunctionRelationWithPKs" />
+    <NavigationProperty Name="tblUserFunctionRelationWithPKs" Relationship="Self.FK_tblUserFunctionRelationWithPK_tblFunctionMaster" FromRole="tblFunctionMasters" ToRole="tblUserFunctionRelationWithPKs" />
+    <NavigationProperty Name="tblJobMasters" Relationship="Self.tblJobFunctionRelationWithoutPK" FromRole="tblFunctionMasters" ToRole="tblJobMasters" />
+    <NavigationProperty Name="tblUserMasters" Relationship="Self.tblUserFunctionRelationWithoutPK" FromRole="tblFunctionMasters" ToRole="tblUserMasters" />
+  </EntityType>
+  <EntityType Name="tblIndustyMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ParentId" Type="Int64" />
+    <Property Name="IndustryName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblJobIndustryRelationWithPKs" Relationship="Self.FK_tblJobIndustryRelationWithPK_tblIndustyMaster" FromRole="tblIndustyMasters" ToRole="tblJobIndustryRelationWithPKs" />
+    <NavigationProperty Name="tblUserIndustryRelationWithPKs" Relationship="Self.FK_tblUserIndustryRelationWithPK_tblIndustyMaster" FromRole="tblIndustyMasters" ToRole="tblUserIndustryRelationWithPKs" />
+    <NavigationProperty Name="tblJobMasters" Relationship="Self.tblJobIndustryRelationWithoutPK" FromRole="tblIndustyMasters" ToRole="tblJobMasters" />
+    <NavigationProperty Name="tblUserMasters" Relationship="Self.tblUserIndustryRelationWithoutPK" FromRole="tblIndustyMasters" ToRole="tblUserMasters" />
+  </EntityType>
+  <EntityType Name="tblJobFunctionRelationWithPK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobId" Type="Int64" Nullable="false" />
+    <Property Name="FunctionId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="tblFunctionMaster" Relationship="Self.FK_tblJobFunctionRelationWithPK_tblFunctionMaster" FromRole="tblJobFunctionRelationWithPKs" ToRole="tblFunctionMasters" />
+    <NavigationProperty Name="tblJobMaster" Relationship="Self.FK_tblJobFunctionRelationWithPK_tblJobMaster" FromRole="tblJobFunctionRelationWithPKs" ToRole="tblJobMasters" />
+  </EntityType>
+  <EntityType Name="tblJobIndustryRelationWithPK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobId" Type="Int64" Nullable="false" />
+    <Property Name="IndustryId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="tblIndustyMaster" Relationship="Self.FK_tblJobIndustryRelationWithPK_tblIndustyMaster" FromRole="tblJobIndustryRelationWithPKs" ToRole="tblIndustyMasters" />
+    <NavigationProperty Name="tblJobMaster" Relationship="Self.FK_tblJobIndustryRelationWithPK_tblJobMaster" FromRole="tblJobIndustryRelationWithPKs" ToRole="tblJobMasters" />
+  </EntityType>
+  <EntityType Name="tblJobMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblJobFunctionRelationWithPKs" Relationship="Self.FK_tblJobFunctionRelationWithPK_tblJobMaster" FromRole="tblJobMasters" ToRole="tblJobFunctionRelationWithPKs" />
+    <NavigationProperty Name="tblJobIndustryRelationWithPKs" Relationship="Self.FK_tblJobIndustryRelationWithPK_tblJobMaster" FromRole="tblJobMasters" ToRole="tblJobIndustryRelationWithPKs" />
+    <NavigationProperty Name="tblFunctionMasters" Relationship="Self.tblJobFunctionRelationWithoutPK" FromRole="tblJobMasters" ToRole="tblFunctionMasters" />
+    <NavigationProperty Name="tblIndustyMasters" Relationship="Self.tblJobIndustryRelationWithoutPK" FromRole="tblJobMasters" ToRole="tblIndustyMasters" />
+  </EntityType>
+  <EntityType Name="tblUserFunctionRelationWithPK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="FunctionId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="tblFunctionMaster" Relationship="Self.FK_tblUserFunctionRelationWithPK_tblFunctionMaster" FromRole="tblUserFunctionRelationWithPKs" ToRole="tblFunctionMasters" />
+    <NavigationProperty Name="tblUserMaster" Relationship="Self.FK_tblUserFunctionRelationWithPK_tblUserMaster" FromRole="tblUserFunctionRelationWithPKs" ToRole="tblUserMasters" />
+  </EntityType>
+  <EntityType Name="tblUserIndustryRelationWithPK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="IndustryId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="tblIndustyMaster" Relationship="Self.FK_tblUserIndustryRelationWithPK_tblIndustyMaster" FromRole="tblUserIndustryRelationWithPKs" ToRole="tblIndustyMasters" />
+    <NavigationProperty Name="tblUserMaster" Relationship="Self.FK_tblUserIndustryRelationWithPK_tblUserMaster" FromRole="tblUserIndustryRelationWithPKs" ToRole="tblUserMasters" />
+  </EntityType>
+  <EntityType Name="tblUserMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmailId" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MobileNo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Byte" />
+    <NavigationProperty Name="tblUserFunctionRelationWithPKs" Relationship="Self.FK_tblUserFunctionRelationWithPK_tblUserMaster" FromRole="tblUserMasters" ToRole="tblUserFunctionRelationWithPKs" />
+    <NavigationProperty Name="tblUserIndustryRelationWithPKs" Relationship="Self.FK_tblUserIndustryRelationWithPK_tblUserMaster" FromRole="tblUserMasters" ToRole="tblUserIndustryRelationWithPKs" />
+    <NavigationProperty Name="tblFunctionMasters" Relationship="Self.tblUserFunctionRelationWithoutPK" FromRole="tblUserMasters" ToRole="tblFunctionMasters" />
+    <NavigationProperty Name="tblIndustyMasters" Relationship="Self.tblUserIndustryRelationWithoutPK" FromRole="tblUserMasters" ToRole="tblIndustyMasters" />
+  </EntityType>
+  <Association Name="FK_tblJobFunctionRelationWithPK_tblFunctionMaster">
+    <End Role="tblFunctionMasters" Type="Self.tblFunctionMaster" Multiplicity="1" />
+    <End Role="tblJobFunctionRelationWithPKs" Type="Self.tblJobFunctionRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblFunctionMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblJobFunctionRelationWithPKs">
+        <PropertyRef Name="FunctionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserFunctionRelationWithPK_tblFunctionMaster">
+    <End Role="tblFunctionMasters" Type="Self.tblFunctionMaster" Multiplicity="1" />
+    <End Role="tblUserFunctionRelationWithPKs" Type="Self.tblUserFunctionRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblFunctionMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblUserFunctionRelationWithPKs">
+        <PropertyRef Name="FunctionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblJobIndustryRelationWithPK_tblIndustyMaster">
+    <End Role="tblIndustyMasters" Type="Self.tblIndustyMaster" Multiplicity="1" />
+    <End Role="tblJobIndustryRelationWithPKs" Type="Self.tblJobIndustryRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblIndustyMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblJobIndustryRelationWithPKs">
+        <PropertyRef Name="IndustryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserIndustryRelationWithPK_tblIndustyMaster">
+    <End Role="tblIndustyMasters" Type="Self.tblIndustyMaster" Multiplicity="1" />
+    <End Role="tblUserIndustryRelationWithPKs" Type="Self.tblUserIndustryRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblIndustyMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblUserIndustryRelationWithPKs">
+        <PropertyRef Name="IndustryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblJobFunctionRelationWithPK_tblJobMaster">
+    <End Role="tblJobMasters" Type="Self.tblJobMaster" Multiplicity="1" />
+    <End Role="tblJobFunctionRelationWithPKs" Type="Self.tblJobFunctionRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblJobMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblJobFunctionRelationWithPKs">
+        <PropertyRef Name="JobId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblJobIndustryRelationWithPK_tblJobMaster">
+    <End Role="tblJobMasters" Type="Self.tblJobMaster" Multiplicity="1" />
+    <End Role="tblJobIndustryRelationWithPKs" Type="Self.tblJobIndustryRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblJobMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblJobIndustryRelationWithPKs">
+        <PropertyRef Name="JobId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserFunctionRelationWithPK_tblUserMaster">
+    <End Role="tblUserMasters" Type="Self.tblUserMaster" Multiplicity="1" />
+    <End Role="tblUserFunctionRelationWithPKs" Type="Self.tblUserFunctionRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUserMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblUserFunctionRelationWithPKs">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserIndustryRelationWithPK_tblUserMaster">
+    <End Role="tblUserMasters" Type="Self.tblUserMaster" Multiplicity="1" />
+    <End Role="tblUserIndustryRelationWithPKs" Type="Self.tblUserIndustryRelationWithPK" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUserMasters">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblUserIndustryRelationWithPKs">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="tblJobFunctionRelationWithoutPK">
+    <End Role="tblFunctionMasters" Type="Self.tblFunctionMaster" Multiplicity="*" />
+    <End Role="tblJobMasters" Type="Self.tblJobMaster" Multiplicity="*" />
+  </Association>
+  <Association Name="tblJobIndustryRelationWithoutPK">
+    <End Role="tblIndustyMasters" Type="Self.tblIndustyMaster" Multiplicity="*" />
+    <End Role="tblJobMasters" Type="Self.tblJobMaster" Multiplicity="*" />
+  </Association>
+  <Association Name="tblUserFunctionRelationWithoutPK">
+    <End Role="tblFunctionMasters" Type="Self.tblFunctionMaster" Multiplicity="*" />
+    <End Role="tblUserMasters" Type="Self.tblUserMaster" Multiplicity="*" />
+  </Association>
+  <Association Name="tblUserIndustryRelationWithoutPK">
+    <End Role="tblIndustyMasters" Type="Self.tblIndustyMaster" Multiplicity="*" />
+    <End Role="tblUserMasters" Type="Self.tblUserMaster" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="DBSampleEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblFunctionMasters" EntityType="Self.tblFunctionMaster" />
+    <EntitySet Name="tblIndustyMasters" EntityType="Self.tblIndustyMaster" />
+    <EntitySet Name="tblJobFunctionRelationWithPKs" EntityType="Self.tblJobFunctionRelationWithPK" />
+    <EntitySet Name="tblJobIndustryRelationWithPKs" EntityType="Self.tblJobIndustryRelationWithPK" />
+    <EntitySet Name="tblJobMasters" EntityType="Self.tblJobMaster" />
+    <EntitySet Name="tblUserFunctionRelationWithPKs" EntityType="Self.tblUserFunctionRelationWithPK" />
+    <EntitySet Name="tblUserIndustryRelationWithPKs" EntityType="Self.tblUserIndustryRelationWithPK" />
+    <EntitySet Name="tblUserMasters" EntityType="Self.tblUserMaster" />
+    <AssociationSet Name="FK_tblJobFunctionRelationWithPK_tblFunctionMaster" Association="Self.FK_tblJobFunctionRelationWithPK_tblFunctionMaster">
+      <End Role="tblFunctionMasters" EntitySet="tblFunctionMasters" />
+      <End Role="tblJobFunctionRelationWithPKs" EntitySet="tblJobFunctionRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserFunctionRelationWithPK_tblFunctionMaster" Association="Self.FK_tblUserFunctionRelationWithPK_tblFunctionMaster">
+      <End Role="tblFunctionMasters" EntitySet="tblFunctionMasters" />
+      <End Role="tblUserFunctionRelationWithPKs" EntitySet="tblUserFunctionRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblJobIndustryRelationWithPK_tblIndustyMaster" Association="Self.FK_tblJobIndustryRelationWithPK_tblIndustyMaster">
+      <End Role="tblIndustyMasters" EntitySet="tblIndustyMasters" />
+      <End Role="tblJobIndustryRelationWithPKs" EntitySet="tblJobIndustryRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserIndustryRelationWithPK_tblIndustyMaster" Association="Self.FK_tblUserIndustryRelationWithPK_tblIndustyMaster">
+      <End Role="tblIndustyMasters" EntitySet="tblIndustyMasters" />
+      <End Role="tblUserIndustryRelationWithPKs" EntitySet="tblUserIndustryRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblJobFunctionRelationWithPK_tblJobMaster" Association="Self.FK_tblJobFunctionRelationWithPK_tblJobMaster">
+      <End Role="tblJobMasters" EntitySet="tblJobMasters" />
+      <End Role="tblJobFunctionRelationWithPKs" EntitySet="tblJobFunctionRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblJobIndustryRelationWithPK_tblJobMaster" Association="Self.FK_tblJobIndustryRelationWithPK_tblJobMaster">
+      <End Role="tblJobMasters" EntitySet="tblJobMasters" />
+      <End Role="tblJobIndustryRelationWithPKs" EntitySet="tblJobIndustryRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserFunctionRelationWithPK_tblUserMaster" Association="Self.FK_tblUserFunctionRelationWithPK_tblUserMaster">
+      <End Role="tblUserMasters" EntitySet="tblUserMasters" />
+      <End Role="tblUserFunctionRelationWithPKs" EntitySet="tblUserFunctionRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserIndustryRelationWithPK_tblUserMaster" Association="Self.FK_tblUserIndustryRelationWithPK_tblUserMaster">
+      <End Role="tblUserMasters" EntitySet="tblUserMasters" />
+      <End Role="tblUserIndustryRelationWithPKs" EntitySet="tblUserIndustryRelationWithPKs" />
+    </AssociationSet>
+    <AssociationSet Name="tblJobFunctionRelationWithoutPK" Association="Self.tblJobFunctionRelationWithoutPK">
+      <End Role="tblFunctionMasters" EntitySet="tblFunctionMasters" />
+      <End Role="tblJobMasters" EntitySet="tblJobMasters" />
+    </AssociationSet>
+    <AssociationSet Name="tblJobIndustryRelationWithoutPK" Association="Self.tblJobIndustryRelationWithoutPK">
+      <End Role="tblIndustyMasters" EntitySet="tblIndustyMasters" />
+      <End Role="tblJobMasters" EntitySet="tblJobMasters" />
+    </AssociationSet>
+    <AssociationSet Name="tblUserFunctionRelationWithoutPK" Association="Self.tblUserFunctionRelationWithoutPK">
+      <End Role="tblFunctionMasters" EntitySet="tblFunctionMasters" />
+      <End Role="tblUserMasters" EntitySet="tblUserMasters" />
+    </AssociationSet>
+    <AssociationSet Name="tblUserIndustryRelationWithoutPK" Association="Self.tblUserIndustryRelationWithoutPK">
+      <End Role="tblIndustyMasters" EntitySet="tblIndustyMasters" />
+      <End Role="tblUserMasters" EntitySet="tblUserMasters" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

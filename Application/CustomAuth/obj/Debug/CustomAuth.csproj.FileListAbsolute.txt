@@ -1,0 +1,55 @@
+C:\D\saurabh\Project\AuthenticationDemo\CustomAuth\bin\Debug\CustomAuth.dll
+C:\D\saurabh\Project\AuthenticationDemo\CustomAuth\bin\Debug\CustomAuth.pdb
+C:\D\saurabh\Project\AuthenticationDemo\CustomAuth\obj\Debug\CustomAuth.dll
+C:\D\saurabh\Project\AuthenticationDemo\CustomAuth\obj\Debug\CustomAuth.pdb
+C:\D\saurabh\Project\AuthenticationDemo\CustomAuth\obj\Debug\ResolveAssemblyReference.cache
+C:\D\saurabh\Project\eTax\TDSeWorld\CODEBASE\CustomAuth\bin\Debug\CustomAuth.dll
+C:\D\saurabh\Project\eTax\TDSeWorld\CODEBASE\CustomAuth\bin\Debug\CustomAuth.pdb
+C:\D\saurabh\Project\eTax\TDSeWorld\CODEBASE\CustomAuth\obj\Debug\ResolveAssemblyReference.cache
+C:\D\saurabh\Project\eTax\TDSeWorld\CODEBASE\CustomAuth\obj\Debug\CustomAuth.dll
+C:\D\saurabh\Project\eTax\TDSeWorld\CODEBASE\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Project\TDSeWorld\trunk\CODEBASE\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Project\TDSeWorld\trunk\CODEBASE\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Project\TDSeWorld\trunk\CODEBASE\CustomAuth\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TDSeWorld\trunk\CODEBASE\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Project\TDSeWorld\trunk\CODEBASE\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Project\Nomadoo\Codebase\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Project\Nomadoo\Codebase\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Project\Nomadoo\Codebase\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Project\Nomadoo\Codebase\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Project\Nomadoo\Codebase\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Project\Library\OldStructure\BaseStructure\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Project\Library\OldStructure\BaseStructure\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Project\Library\OldStructure\BaseStructure\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Project\Library\OldStructure\BaseStructure\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Project\Library\OldStructure\BaseStructure\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Project\Library\InitialStructure\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Project\Library\InitialStructure\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Project\Library\InitialStructure\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Project\Library\InitialStructure\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Home Project\New folder\InitialStructure\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Home Project\New folder\InitialStructure\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Home Project\New folder\InitialStructure\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Home Project\New folder\InitialStructure\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Sample Project\New folder\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Sample Project\New folder\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Sample Project\New folder\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Sample Project\New folder\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Sample Project\Application\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Sample Project\Application\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Sample Project\Application\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Sample Project\Application\CustomAuth\obj\Debug\CustomAuth.pdb
+D:\Ravi\Project\Project structure\Application\CustomAuth\bin\Debug\CustomAuth.dll
+D:\Ravi\Project\Project structure\Application\CustomAuth\bin\Debug\CustomAuth.pdb
+D:\Ravi\Project\Project structure\Application\CustomAuth\obj\Debug\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\CustomAuth\obj\Debug\CustomAuth.dll
+D:\Ravi\Project\Project structure\Application\CustomAuth\obj\Debug\CustomAuth.pdb

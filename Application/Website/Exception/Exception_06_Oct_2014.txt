@@ -1,0 +1,128 @@
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+10/6/2014 10:37:31 AM
+
+MESSAGE : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+INNER EXCEPTION : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\DataLayer\DataLogic\tblUserMasterDL.cs:line 47
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 35
+   at Website.Areas.Admin.Controllers.UserController.Create(tblUserMaster model) in d:\Project\Library\InitialStructure\Website\Areas\Admin\Controllers\UserController.cs:line 84
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+10/6/2014 10:38:44 AM
+
+MESSAGE : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+INNER EXCEPTION : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\DataLayer\DataLogic\tblUserMasterDL.cs:line 47
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 35
+   at Website.Areas.Admin.Controllers.UserController.Create(tblUserMaster model) in d:\Project\Library\InitialStructure\Website\Areas\Admin\Controllers\UserController.cs:line 84
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+10/6/2014 11:22:33 AM
+
+MESSAGE : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+INNER EXCEPTION : 
+
+Unable to update the EntitySet 'tblUserMaster' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\DataLayer\DataLogic\tblUserMasterDL.cs:line 47
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 35
+   at Website.Areas.Admin.Controllers.UserController.Create(tblUserMaster model) in d:\Project\Library\InitialStructure\Website\Areas\Admin\Controllers\UserController.cs:line 84
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+10/6/2014 11:40:17 AM
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\DataLayer\DataLogic\tblUserMasterDL.cs:line 47
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.InsertUpdate(DBSampleEntities db, tblUserMaster model, DBAction action) in d:\Project\Library\InitialStructure\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 36
+   at Website.Areas.Admin.Controllers.UserController.Create(tblUserMaster model) in d:\Project\Library\InitialStructure\Website\Areas\Admin\Controllers\UserController.cs:line 84
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************

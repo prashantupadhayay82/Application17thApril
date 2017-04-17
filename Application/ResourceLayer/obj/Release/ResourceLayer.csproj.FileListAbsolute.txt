@@ -1,0 +1,9 @@
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\bin\Release\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\bin\Release\ResourceLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.Resource1.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.Resource2.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.ResourceMaster.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Release\ResourceLayer.pdb

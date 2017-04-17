@@ -1,0 +1,7 @@
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Release\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Release\UtilityLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Release\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Release\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Release\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Release\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Release\UtilityLayer.pdb

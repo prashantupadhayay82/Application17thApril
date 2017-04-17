@@ -1,0 +1,40 @@
+D:\Project\Library\InitialStructure\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Project\Library\InitialStructure\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Project\Library\InitialStructure\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Project\Library\InitialStructure\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Home Project\New folder\InitialStructure\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Home Project\New folder\InitialStructure\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Home Project\New folder\InitialStructure\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Home Project\New folder\InitialStructure\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Sample Project\New folder\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sample Project\New folder\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Sample Project\New folder\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Sample Project\Application\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sample Project\Application\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Sample Project\Application\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Ravi\Project\Project structure\Application\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ravi\Project\Project structure\Application\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Ravi\Project\Project structure\Application\EntityLayer\obj\Debug\EntityLayer.pdb

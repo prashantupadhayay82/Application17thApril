@@ -1,0 +1,328 @@
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 01:18:40
+
+MESSAGE : 
+
+The LINQ expression node type 'Invoke' is not supported in LINQ to Entities.
+
+Stack Trace:
+
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.NotSupportedTranslator.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.BinaryTranslator.TypedTranslate(ExpressionConverter parent, BinaryExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input, DbExpressionBinding& binding)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, DbExpression& source, DbExpressionBinding& sourceBinding, DbExpression& lambda)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateSet(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.AggregateTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.Convert()
+   at System.Data.Entity.Core.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__6()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Count[TSource](IQueryable`1 source)
+   at DataLayer.DbHelper`1.GetPagedList(ApplicationDBEntities db, Expression`1 condition, Expression`1 _order, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DbHelper.cs:line 29
+   at DataLayer.DataLogic.tblUserMasterDL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 40
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 30
+   at Website.Areas.Admin.Controllers.UserController.LoadContent(tblUserFilterModel filterModel) in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 43
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 01:20:14
+
+MESSAGE : 
+
+The LINQ expression node type 'Invoke' is not supported in LINQ to Entities.
+
+Stack Trace:
+
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.NotSupportedTranslator.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.BinaryTranslator.TypedTranslate(ExpressionConverter parent, BinaryExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input, DbExpressionBinding& binding)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, DbExpression& source, DbExpressionBinding& sourceBinding, DbExpression& lambda)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateSet(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.AggregateTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.Convert()
+   at System.Data.Entity.Core.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__6()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Count[TSource](IQueryable`1 source)
+   at DataLayer.DbHelper`1.GetPagedList(ApplicationDBEntities db, Expression`1 condition, Expression`1 _order, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DbHelper.cs:line 29
+   at DataLayer.DataLogic.tblUserMasterDL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 40
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 30
+   at Website.Areas.Admin.Controllers.UserController.LoadContent(tblUserFilterModel filterModel) in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 43
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 01:24:15
+
+MESSAGE : 
+
+The LINQ expression node type 'Invoke' is not supported in LINQ to Entities.
+
+Stack Trace:
+
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.NotSupportedTranslator.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.BinaryTranslator.TypedTranslate(ExpressionConverter parent, BinaryExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input, DbExpressionBinding& binding)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, DbExpression& source, DbExpressionBinding& sourceBinding, DbExpression& lambda)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateSet(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.AggregateTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+   at System.Data.Entity.Core.Objects.ELinq.ExpressionConverter.Convert()
+   at System.Data.Entity.Core.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__6()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Count[TSource](IQueryable`1 source)
+   at DataLayer.DbHelper`1.GetPagedList(ApplicationDBEntities db, Expression`1 condition, Expression`1 _order, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DbHelper.cs:line 29
+   at DataLayer.DataLogic.tblUserMasterDL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 40
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.GetData(ApplicationDBEntities db, tblUserFilterModel filterModel, Int32 currentPageIndex, Int32& Total) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 30
+   at Website.Areas.Admin.Controllers.UserController.LoadContent(tblUserFilterModel filterModel) in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 43
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 11:23:53
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 79
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 82
+   at Website.Areas.Admin.Controllers.UserController.UpdateStatus() in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 128
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 11:25:51
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 79
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 82
+   at Website.Areas.Admin.Controllers.UserController.UpdateStatus() in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 128
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 11:31:34
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 78
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 82
+   at Website.Areas.Admin.Controllers.UserController.UpdateStatus() in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 128
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 11:31:50
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 78
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 82
+   at Website.Areas.Admin.Controllers.UserController.UpdateStatus() in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 128
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************
+
+************************************** Exception Log Start **************************************
+
+****************************************************************************************************
+
+DATE : 
+
+06-12-2015 11:32:20
+
+MESSAGE : 
+
+Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+Stack Trace:
+
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at DataLayer.DataLogic.tblUserMasterDL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\DataLayer\DataLogic\tblUserMasterDL.cs:line 78
+   at BusinessLayer.BusinessLogic.tblUserMasterBL.UpdateStatus(ApplicationDBEntities db, Int64 ID) in d:\Sample Project\New folder\BusinessLayer\BusinessLogic\tblUserMasterBL.cs:line 82
+   at Website.Areas.Admin.Controllers.UserController.UpdateStatus() in d:\Sample Project\New folder\Website\Areas\Admin\Controllers\UserController.cs:line 128
+
+Source : 
+
+EntityFramework
+
+************************************** Exception Log End **************************************
+
+****************************************************************************************************

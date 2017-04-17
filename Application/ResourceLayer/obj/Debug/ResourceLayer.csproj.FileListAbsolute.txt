@@ -1,0 +1,66 @@
+D:\Project\FTI\CODEBASE\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Project\FTI\CODEBASE\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.Resource1.resources
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.Resource2.resources
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.ResourceMaster.resources
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Project\FTI\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.Resource1.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.Resource2.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.ResourceMaster.resources
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Project\Nomadoo\Codebase\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Nomadoo\Codebase\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Nomadoo\Codebase\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Project\Nomadoo\Codebase\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Project\Nomadoo\Codebase\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\Nomadoo\Codebase\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Project\Nomadoo\Codebase\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Project\Library\InitialStructure\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Library\InitialStructure\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Library\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Project\Library\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Project\Library\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Project\Library\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Home Project\New folder\InitialStructure\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Home Project\New folder\InitialStructure\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Home Project\New folder\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Home Project\New folder\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Home Project\New folder\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Home Project\New folder\InitialStructure\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Sample Project\New folder\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\New folder\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\New folder\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Sample Project\New folder\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Sample Project\New folder\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Sample Project\New folder\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Sample Project\Application\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\Application\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\Application\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Sample Project\Application\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Sample Project\Application\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Sample Project\Application\ResourceLayer\obj\Debug\ResourceLayer.pdb
+D:\Ravi\Project\Project structure\Application\ResourceLayer\bin\Debug\ResourceLayer.dll
+D:\Ravi\Project\Project structure\Application\ResourceLayer\bin\Debug\ResourceLayer.pdb
+D:\Ravi\Project\Project structure\Application\ResourceLayer\obj\Debug\ResourceLayer.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\ResourceLayer\obj\Debug\ResourceLayer.ResourceFile.resources
+D:\Ravi\Project\Project structure\Application\ResourceLayer\obj\Debug\ResourceLayer.csproj.GenerateResource.Cache
+D:\Ravi\Project\Project structure\Application\ResourceLayer\obj\Debug\ResourceLayer.dll
+D:\Ravi\Project\Project structure\Application\ResourceLayer\obj\Debug\ResourceLayer.pdb

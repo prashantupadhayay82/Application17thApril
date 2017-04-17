@@ -1,0 +1,5 @@
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\bin\Release\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\bin\Release\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Release\CustomAuth.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Release\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\CustomAuth\obj\Release\CustomAuth.pdb

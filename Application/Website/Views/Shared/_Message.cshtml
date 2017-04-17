@@ -1,0 +1,19 @@
+﻿@using UtilityLayer
+
+<div class="container">
+    @if (ViewData[StringUtility.SuccessMessage] != null)
+    {
+        <div id="Div_Message" class="message success">
+            <span></span>@Convert.ToString(ViewData[StringUtility.SuccessMessage])
+        </div>
+    }
+    else if (ViewData[StringUtility.ErrorMessage] != null)
+    {
+        <div id="Div_Message" class="message error">
+            <span></span>@Convert.ToString(ViewData[StringUtility.ErrorMessage])
+        </div>
+    }
+</div>
+<script language="javascript" type="text/javascript">
+    //autoHideMessage("Div_Message");
+</script>

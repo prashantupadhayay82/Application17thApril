@@ -1,0 +1,56 @@
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Project\Nomadoo\Codebase\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Nomadoo\Codebase\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Nomadoo\Codebase\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Project\Nomadoo\Codebase\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Project\Nomadoo\Codebase\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Project\Nomadoo\Codebase\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Project\Nomadoo\Codebase\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Project\Library\InitialStructure\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\InitialStructure\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\InitialStructure\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Project\Library\InitialStructure\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Project\Library\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Project\Library\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Home Project\New folder\InitialStructure\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Home Project\New folder\InitialStructure\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Home Project\New folder\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Home Project\New folder\InitialStructure\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Sample Project\New folder\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\New folder\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\New folder\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Sample Project\New folder\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Sample Project\New folder\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Sample Project\New folder\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Sample Project\Application\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\Application\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\Application\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Sample Project\Application\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Sample Project\Application\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Sample Project\Application\UtilityLayer\obj\Debug\UtilityLayer.pdb
+D:\Ravi\Project\Project structure\Application\UtilityLayer\bin\Debug\UtilityLayer.dll
+D:\Ravi\Project\Project structure\Application\UtilityLayer\bin\Debug\UtilityLayer.pdb
+D:\Ravi\Project\Project structure\Application\UtilityLayer\bin\Debug\CustomAuth.dll
+D:\Ravi\Project\Project structure\Application\UtilityLayer\bin\Debug\CustomAuth.pdb
+D:\Ravi\Project\Project structure\Application\UtilityLayer\obj\Debug\UtilityLayer.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\UtilityLayer\obj\Debug\UtilityLayer.dll
+D:\Ravi\Project\Project structure\Application\UtilityLayer\obj\Debug\UtilityLayer.pdb

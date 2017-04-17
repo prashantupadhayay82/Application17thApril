@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NomadooDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblTransaction">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WorkspaceItemId" Type="Int64" Nullable="false" />
+    <Property Name="BookingHours" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Charges" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="PaymentGatewayResponse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Int16" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int64" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblUserMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Firstname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Lastname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Media" Type="Int16" Nullable="false" />
+    <Property Name="Status" Type="Int16" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int64" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifyBy" Type="Int64" />
+    <Property Name="ModifyOn" Type="DateTime" Precision="3" />
+    <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblWorkspaceItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WorkSpaceId" Type="Int64" Nullable="false" />
+    <Property Name="OfficeTitle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Summary" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="OfficeType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContactNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Location" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ZipCode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Latitude" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Longitude" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ChargesPerHour" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="ChargesPerDay" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Status" Type="Int16" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int64" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifyBy" Type="Int64" />
+    <Property Name="ModifyOn" Type="DateTime" Precision="3" />
+    <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblWorkspaceMaster" Relationship="Self.FK_tblWorkspaceItem_tblWorkspaceMaster" FromRole="tblWorkspaceItem" ToRole="tblWorkspaceMaster" />
+    <NavigationProperty Name="tblWorkspaceItemImages" Relationship="Self.FK_tblWorkspaceItemImage_tblWorkspaceItem" FromRole="tblWorkspaceItem" ToRole="tblWorkspaceItemImage" />
+  </EntityType>
+  <EntityType Name="tblWorkspaceItemImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WorkspaceItemId" Type="Int64" Nullable="false" />
+    <Property Name="FilePath" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tblWorkspaceItem" Relationship="Self.FK_tblWorkspaceItemImage_tblWorkspaceItem" FromRole="tblWorkspaceItemImage" ToRole="tblWorkspaceItem" />
+  </EntityType>
+  <EntityType Name="tblWorkspaceMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Int16" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int64" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifyBy" Type="Int64" />
+    <Property Name="ModifyOn" Type="DateTime" Precision="3" />
+    <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblWorkspaceItems" Relationship="Self.FK_tblWorkspaceItem_tblWorkspaceMaster" FromRole="tblWorkspaceMaster" ToRole="tblWorkspaceItem" />
+  </EntityType>
+  <Association Name="FK_tblWorkspaceItem_tblWorkspaceMaster">
+    <End Role="tblWorkspaceMaster" Type="Self.tblWorkspaceMaster" Multiplicity="1" />
+    <End Role="tblWorkspaceItem" Type="Self.tblWorkspaceItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblWorkspaceMaster">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblWorkspaceItem">
+        <PropertyRef Name="WorkSpaceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblWorkspaceItemImage_tblWorkspaceItem">
+    <End Role="tblWorkspaceItem" Type="Self.tblWorkspaceItem" Multiplicity="1" />
+    <End Role="tblWorkspaceItemImage" Type="Self.tblWorkspaceItemImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblWorkspaceItem">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblWorkspaceItemImage">
+        <PropertyRef Name="WorkspaceItemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NomadooDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblTransactions" EntityType="Self.tblTransaction" />
+    <EntitySet Name="tblUserMasters" EntityType="Self.tblUserMaster" />
+    <EntitySet Name="tblWorkspaceItems" EntityType="Self.tblWorkspaceItem" />
+    <EntitySet Name="tblWorkspaceItemImages" EntityType="Self.tblWorkspaceItemImage" />
+    <EntitySet Name="tblWorkspaceMasters" EntityType="Self.tblWorkspaceMaster" />
+    <AssociationSet Name="FK_tblWorkspaceItem_tblWorkspaceMaster" Association="Self.FK_tblWorkspaceItem_tblWorkspaceMaster">
+      <End Role="tblWorkspaceMaster" EntitySet="tblWorkspaceMasters" />
+      <End Role="tblWorkspaceItem" EntitySet="tblWorkspaceItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblWorkspaceItemImage_tblWorkspaceItem" Association="Self.FK_tblWorkspaceItemImage_tblWorkspaceItem">
+      <End Role="tblWorkspaceItem" EntitySet="tblWorkspaceItems" />
+      <End Role="tblWorkspaceItemImage" EntitySet="tblWorkspaceItemImages" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

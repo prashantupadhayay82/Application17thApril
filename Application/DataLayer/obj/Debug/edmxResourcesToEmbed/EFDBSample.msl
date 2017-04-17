@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBSampleModelStoreContainer" CdmEntityContainer="DBSampleEntities">
+    <EntitySetMapping Name="tblFunctionMasters">
+      <EntityTypeMapping TypeName="DBSampleModel.tblFunctionMaster">
+        <MappingFragment StoreEntitySet="tblFunctionMasters">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="FunctionName" ColumnName="FunctionName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblIndustyMasters">
+      <EntityTypeMapping TypeName="DBSampleModel.tblIndustyMaster">
+        <MappingFragment StoreEntitySet="tblIndustyMasters">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="IndustryName" ColumnName="IndustryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblJobFunctionRelationWithPKs">
+      <EntityTypeMapping TypeName="DBSampleModel.tblJobFunctionRelationWithPK">
+        <MappingFragment StoreEntitySet="tblJobFunctionRelationWithPKs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="JobId" ColumnName="JobId" />
+          <ScalarProperty Name="FunctionId" ColumnName="FunctionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblJobIndustryRelationWithPKs">
+      <EntityTypeMapping TypeName="DBSampleModel.tblJobIndustryRelationWithPK">
+        <MappingFragment StoreEntitySet="tblJobIndustryRelationWithPKs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="JobId" ColumnName="JobId" />
+          <ScalarProperty Name="IndustryId" ColumnName="IndustryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblJobMasters">
+      <EntityTypeMapping TypeName="DBSampleModel.tblJobMaster">
+        <MappingFragment StoreEntitySet="tblJobMasters">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUserFunctionRelationWithPKs">
+      <EntityTypeMapping TypeName="DBSampleModel.tblUserFunctionRelationWithPK">
+        <MappingFragment StoreEntitySet="tblUserFunctionRelationWithPKs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="FunctionId" ColumnName="FunctionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUserIndustryRelationWithPKs">
+      <EntityTypeMapping TypeName="DBSampleModel.tblUserIndustryRelationWithPK">
+        <MappingFragment StoreEntitySet="tblUserIndustryRelationWithPKs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IndustryId" ColumnName="IndustryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUserMasters">
+      <EntityTypeMapping TypeName="DBSampleModel.tblUserMaster">
+        <MappingFragment StoreEntitySet="tblUserMasters">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EmailId" ColumnName="EmailId" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="tblJobFunctionRelationWithoutPK" TypeName="DBSampleModel.tblJobFunctionRelationWithoutPK" StoreEntitySet="tblJobFunctionRelationWithoutPK">
+      <EndProperty Name="tblFunctionMasters">
+        <ScalarProperty Name="Id" ColumnName="tblFunctionMasters_Id" />
+      </EndProperty>
+      <EndProperty Name="tblJobMasters">
+        <ScalarProperty Name="Id" ColumnName="tblJobMasters_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="tblJobIndustryRelationWithoutPK" TypeName="DBSampleModel.tblJobIndustryRelationWithoutPK" StoreEntitySet="tblJobIndustryRelationWithoutPK">
+      <EndProperty Name="tblIndustyMasters">
+        <ScalarProperty Name="Id" ColumnName="tblIndustyMasters_Id" />
+      </EndProperty>
+      <EndProperty Name="tblJobMasters">
+        <ScalarProperty Name="Id" ColumnName="tblJobMasters_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="tblUserFunctionRelationWithoutPK" TypeName="DBSampleModel.tblUserFunctionRelationWithoutPK" StoreEntitySet="tblUserFunctionRelationWithoutPK">
+      <EndProperty Name="tblFunctionMasters">
+        <ScalarProperty Name="Id" ColumnName="tblFunctionMasters_Id" />
+      </EndProperty>
+      <EndProperty Name="tblUserMasters">
+        <ScalarProperty Name="Id" ColumnName="tblUserMasters_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="tblUserIndustryRelationWithoutPK" TypeName="DBSampleModel.tblUserIndustryRelationWithoutPK" StoreEntitySet="tblUserIndustryRelationWithoutPK">
+      <EndProperty Name="tblIndustyMasters">
+        <ScalarProperty Name="Id" ColumnName="tblIndustyMasters_Id" />
+      </EndProperty>
+      <EndProperty Name="tblUserMasters">
+        <ScalarProperty Name="Id" ColumnName="tblUserMasters_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

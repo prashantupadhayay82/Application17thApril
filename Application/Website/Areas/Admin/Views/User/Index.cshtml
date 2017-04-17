@@ -1,0 +1,37 @@
+﻿@model EntityLayer.UserPageModel
+
+@{
+    ViewBag.Title = "User Management";
+    ViewBag.MainTitle = "Home";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="clearfix">
+            <div class="pull-right tableTools-container"></div>
+        </div>
+        @using (Ajax.BeginForm("PartialIndex", "User", new AjaxOptions { UpdateTargetId = "div-content-list", OnComplete = "onComplete" }))
+        {
+            <div class="row">
+                <div class="col-sm-12">
+                    @Html.Partial("_Filter", Model.Filter)
+                </div>
+            </div>
+            <div class="space-4"></div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="widget-header widget-header-blue widget-header-flat">
+                        <h4 class="widget-title lighter">Results for "Default or Latest search criteria"</h4>
+                        <div class="widget-toolbar">
+                            @Html.ActionLink("Create New User", "Create", new { }, new { @id = "lnkCreate", @class = "btn btn-info", @onclick = "javascript:OnRequestBegin()" })
+                        </div>
+                    </div>
+                    <div class="space-4"></div>
+                    <div id="div-content-list">
+                        @Html.Partial("_List", Model.List)
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

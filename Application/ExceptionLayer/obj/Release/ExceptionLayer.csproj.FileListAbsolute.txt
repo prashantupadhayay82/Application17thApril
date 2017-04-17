@@ -1,0 +1,11 @@
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\ExceptionLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\ExceptionLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\ResourceLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\UtilityLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Release\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Release\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Release\ExceptionLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Release\ExceptionLayer.pdb

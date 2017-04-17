@@ -1,0 +1,83 @@
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\FTI\CODEBASE\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\FTI\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Project\FTI\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\CustomAuth.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\bin\Debug\CustomAuth.pdb
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Project\FTI\trunk\CODEBASE\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Nomadoo\Codebase\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Nomadoo\Codebase\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\Nomadoo\Codebase\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Project\Nomadoo\Codebase\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Project\Library\InitialStructure\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Project\Library\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Home Project\New folder\InitialStructure\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\New folder\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\New folder\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Sample Project\New folder\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\Application\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\Application\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Sample Project\Application\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\ResourceLayer.dll
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\UtilityLayer.dll
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\ResourceLayer.pdb
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\bin\Debug\UtilityLayer.pdb
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Ravi\Project\Project structure\Application\ExceptionLayer\obj\Debug\ExceptionLayer.pdb

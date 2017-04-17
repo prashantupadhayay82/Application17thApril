@@ -1,0 +1,410 @@
+D:\Project\Library\InitialStructure\Website\bin\Website.dll.config
+D:\Project\Library\InitialStructure\Website\bin\Website.dll
+D:\Project\Library\InitialStructure\Website\bin\Website.pdb
+D:\Project\Library\InitialStructure\Website\bin\Antlr3.Runtime.dll
+D:\Project\Library\InitialStructure\Website\bin\EntityFramework.dll
+D:\Project\Library\InitialStructure\Website\bin\EntityFramework.SqlServer.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Library\InitialStructure\Website\bin\Newtonsoft.Json.dll
+D:\Project\Library\InitialStructure\Website\bin\Owin.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Helpers.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Mvc.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Optimization.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Razor.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.dll
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.Razor.dll
+D:\Project\Library\InitialStructure\Website\bin\WebGrease.dll
+D:\Project\Library\InitialStructure\Website\bin\Antlr3.Runtime.pdb
+D:\Project\Library\InitialStructure\Website\bin\EntityFramework.xml
+D:\Project\Library\InitialStructure\Website\bin\EntityFramework.SqlServer.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\Library\InitialStructure\Website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\Library\InitialStructure\Website\bin\Newtonsoft.Json.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Helpers.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Mvc.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Optimization.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.Razor.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Library\InitialStructure\Website\bin\System.Web.WebPages.Razor.xml
+D:\Project\Library\InitialStructure\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\Website\obj\Debug\Website.dll
+D:\Project\Library\InitialStructure\Website\obj\Debug\Website.pdb
+D:\Project\Library\InitialStructure\Website\bin\BusinessLayer.dll
+D:\Project\Library\InitialStructure\Website\bin\CustomAuth.dll
+D:\Project\Library\InitialStructure\Website\bin\DataLayer.dll
+D:\Project\Library\InitialStructure\Website\bin\ExceptionLayer.dll
+D:\Project\Library\InitialStructure\Website\bin\ResourceLayer.dll
+D:\Project\Library\InitialStructure\Website\bin\UtilityLayer.dll
+D:\Project\Library\InitialStructure\Website\bin\BusinessLayer.pdb
+D:\Project\Library\InitialStructure\Website\bin\CustomAuth.pdb
+D:\Project\Library\InitialStructure\Website\bin\DataLayer.pdb
+D:\Project\Library\InitialStructure\Website\bin\ExceptionLayer.pdb
+D:\Project\Library\InitialStructure\Website\bin\ResourceLayer.pdb
+D:\Project\Library\InitialStructure\Website\bin\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\Website.dll.config
+D:\Home Project\New folder\InitialStructure\Website\bin\Website.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Website.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\Antlr3.Runtime.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\BusinessLayer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\CustomAuth.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\DataLayer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\EntityFramework.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\EntityFramework.SqlServer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\ExceptionLayer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Newtonsoft.Json.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\Owin.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\ResourceLayer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Helpers.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Mvc.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Optimization.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Razor.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.Deployment.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.Razor.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\UtilityLayer.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\WebGrease.dll
+D:\Home Project\New folder\InitialStructure\Website\bin\BusinessLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\CustomAuth.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\DataLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\ExceptionLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\ResourceLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\Antlr3.Runtime.pdb
+D:\Home Project\New folder\InitialStructure\Website\bin\EntityFramework.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\EntityFramework.SqlServer.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\Newtonsoft.Json.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Helpers.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Mvc.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Optimization.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.Razor.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.Deployment.xml
+D:\Home Project\New folder\InitialStructure\Website\bin\System.Web.WebPages.Razor.xml
+D:\Home Project\New folder\InitialStructure\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\Website\obj\Debug\Website.dll
+D:\Home Project\New folder\InitialStructure\Website\obj\Debug\Website.pdb
+D:\Sample Project\New folder\Website\bin\Website.dll.config
+D:\Sample Project\New folder\Website\bin\Website.dll
+D:\Sample Project\New folder\Website\bin\Website.pdb
+D:\Sample Project\New folder\Website\bin\Antlr3.Runtime.dll
+D:\Sample Project\New folder\Website\bin\BusinessLayer.dll
+D:\Sample Project\New folder\Website\bin\CustomAuth.dll
+D:\Sample Project\New folder\Website\bin\EntityFramework.dll
+D:\Sample Project\New folder\Website\bin\EntityFramework.SqlServer.dll
+D:\Sample Project\New folder\Website\bin\EntityLayer.dll
+D:\Sample Project\New folder\Website\bin\ExceptionLayer.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sample Project\New folder\Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Sample Project\New folder\Website\bin\Newtonsoft.Json.dll
+D:\Sample Project\New folder\Website\bin\Owin.dll
+D:\Sample Project\New folder\Website\bin\ResourceLayer.dll
+D:\Sample Project\New folder\Website\bin\System.Web.Helpers.dll
+D:\Sample Project\New folder\Website\bin\System.Web.Mvc.dll
+D:\Sample Project\New folder\Website\bin\System.Web.Optimization.dll
+D:\Sample Project\New folder\Website\bin\System.Web.Razor.dll
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.Deployment.dll
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.dll
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.Razor.dll
+D:\Sample Project\New folder\Website\bin\UtilityLayer.dll
+D:\Sample Project\New folder\Website\bin\WebGrease.dll
+D:\Sample Project\New folder\Website\bin\DataLayer.dll
+D:\Sample Project\New folder\Website\bin\BusinessLayer.pdb
+D:\Sample Project\New folder\Website\bin\CustomAuth.pdb
+D:\Sample Project\New folder\Website\bin\EntityLayer.pdb
+D:\Sample Project\New folder\Website\bin\ExceptionLayer.pdb
+D:\Sample Project\New folder\Website\bin\ResourceLayer.pdb
+D:\Sample Project\New folder\Website\bin\UtilityLayer.pdb
+D:\Sample Project\New folder\Website\bin\Antlr3.Runtime.pdb
+D:\Sample Project\New folder\Website\bin\EntityFramework.xml
+D:\Sample Project\New folder\Website\bin\EntityFramework.SqlServer.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sample Project\New folder\Website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sample Project\New folder\Website\bin\Newtonsoft.Json.xml
+D:\Sample Project\New folder\Website\bin\System.Web.Helpers.xml
+D:\Sample Project\New folder\Website\bin\System.Web.Mvc.xml
+D:\Sample Project\New folder\Website\bin\System.Web.Optimization.xml
+D:\Sample Project\New folder\Website\bin\System.Web.Razor.xml
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.xml
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.Deployment.xml
+D:\Sample Project\New folder\Website\bin\System.Web.WebPages.Razor.xml
+D:\Sample Project\New folder\Website\bin\DataLayer.pdb
+D:\Sample Project\New folder\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\Website\obj\Debug\Website.dll
+D:\Sample Project\New folder\Website\obj\Debug\Website.pdb
+D:\Sample Project\Application\Website\bin\Website.dll.config
+D:\Sample Project\Application\Website\bin\Website.dll
+D:\Sample Project\Application\Website\bin\Website.pdb
+D:\Sample Project\Application\Website\bin\Antlr3.Runtime.dll
+D:\Sample Project\Application\Website\bin\BusinessLayer.dll
+D:\Sample Project\Application\Website\bin\CustomAuth.dll
+D:\Sample Project\Application\Website\bin\EntityFramework.dll
+D:\Sample Project\Application\Website\bin\EntityFramework.SqlServer.dll
+D:\Sample Project\Application\Website\bin\EntityLayer.dll
+D:\Sample Project\Application\Website\bin\ExceptionLayer.dll
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sample Project\Application\Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Sample Project\Application\Website\bin\Newtonsoft.Json.dll
+D:\Sample Project\Application\Website\bin\Owin.dll
+D:\Sample Project\Application\Website\bin\ResourceLayer.dll
+D:\Sample Project\Application\Website\bin\System.Web.Helpers.dll
+D:\Sample Project\Application\Website\bin\System.Web.Mvc.dll
+D:\Sample Project\Application\Website\bin\System.Web.Optimization.dll
+D:\Sample Project\Application\Website\bin\System.Web.Razor.dll
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.Deployment.dll
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.dll
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.Razor.dll
+D:\Sample Project\Application\Website\bin\UtilityLayer.dll
+D:\Sample Project\Application\Website\bin\WebGrease.dll
+D:\Sample Project\Application\Website\bin\DataLayer.dll
+D:\Sample Project\Application\Website\bin\BusinessLayer.pdb
+D:\Sample Project\Application\Website\bin\CustomAuth.pdb
+D:\Sample Project\Application\Website\bin\EntityLayer.pdb
+D:\Sample Project\Application\Website\bin\ExceptionLayer.pdb
+D:\Sample Project\Application\Website\bin\ResourceLayer.pdb
+D:\Sample Project\Application\Website\bin\UtilityLayer.pdb
+D:\Sample Project\Application\Website\bin\Antlr3.Runtime.pdb
+D:\Sample Project\Application\Website\bin\EntityFramework.xml
+D:\Sample Project\Application\Website\bin\EntityFramework.SqlServer.xml
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sample Project\Application\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sample Project\Application\Website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sample Project\Application\Website\bin\Newtonsoft.Json.xml
+D:\Sample Project\Application\Website\bin\System.Web.Helpers.xml
+D:\Sample Project\Application\Website\bin\System.Web.Mvc.xml
+D:\Sample Project\Application\Website\bin\System.Web.Optimization.xml
+D:\Sample Project\Application\Website\bin\System.Web.Razor.xml
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.xml
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.Deployment.xml
+D:\Sample Project\Application\Website\bin\System.Web.WebPages.Razor.xml
+D:\Sample Project\Application\Website\bin\DataLayer.pdb
+D:\Sample Project\Application\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\Website\obj\Debug\Website.dll
+D:\Sample Project\Application\Website\obj\Debug\Website.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\Website.dll.config
+D:\Ravi\Project\Project structure\Application\Website\bin\Website.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Website.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\Antlr3.Runtime.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\BusinessLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\CustomAuth.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityFramework.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityFramework.SqlServer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\ExceptionLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Newtonsoft.Json.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\Owin.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\ResourceLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Helpers.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Mvc.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Optimization.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Razor.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.Deployment.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.Razor.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\UtilityLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\WebGrease.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\DataLayer.dll
+D:\Ravi\Project\Project structure\Application\Website\bin\BusinessLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\CustomAuth.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\ExceptionLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\ResourceLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\UtilityLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\Antlr3.Runtime.pdb
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityFramework.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\EntityFramework.SqlServer.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\Newtonsoft.Json.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Helpers.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Mvc.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Optimization.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.Razor.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.Deployment.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\System.Web.WebPages.Razor.xml
+D:\Ravi\Project\Project structure\Application\Website\bin\DataLayer.pdb
+D:\Ravi\Project\Project structure\Application\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\Website\obj\Debug\Website.dll
+D:\Ravi\Project\Project structure\Application\Website\obj\Debug\Website.pdb
+F:\Prashant\Application\Website\bin\Website.dll.config
+F:\Prashant\Application\Website\bin\Website.dll
+F:\Prashant\Application\Website\bin\Website.pdb
+F:\Prashant\Application\Website\bin\Antlr3.Runtime.dll
+F:\Prashant\Application\Website\bin\BusinessLayer.dll
+F:\Prashant\Application\Website\bin\CustomAuth.dll
+F:\Prashant\Application\Website\bin\EntityFramework.dll
+F:\Prashant\Application\Website\bin\EntityFramework.SqlServer.dll
+F:\Prashant\Application\Website\bin\EntityLayer.dll
+F:\Prashant\Application\Website\bin\ExceptionLayer.dll
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Google.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Prashant\Application\Website\bin\Microsoft.Web.Infrastructure.dll
+F:\Prashant\Application\Website\bin\Newtonsoft.Json.dll
+F:\Prashant\Application\Website\bin\Owin.dll
+F:\Prashant\Application\Website\bin\ResourceLayer.dll
+F:\Prashant\Application\Website\bin\System.Web.Helpers.dll
+F:\Prashant\Application\Website\bin\System.Web.Mvc.dll
+F:\Prashant\Application\Website\bin\System.Web.Optimization.dll
+F:\Prashant\Application\Website\bin\System.Web.Razor.dll
+F:\Prashant\Application\Website\bin\System.Web.WebPages.Deployment.dll
+F:\Prashant\Application\Website\bin\System.Web.WebPages.dll
+F:\Prashant\Application\Website\bin\System.Web.WebPages.Razor.dll
+F:\Prashant\Application\Website\bin\UtilityLayer.dll
+F:\Prashant\Application\Website\bin\WebGrease.dll
+F:\Prashant\Application\Website\bin\DataLayer.dll
+F:\Prashant\Application\Website\bin\BusinessLayer.pdb
+F:\Prashant\Application\Website\bin\CustomAuth.pdb
+F:\Prashant\Application\Website\bin\EntityLayer.pdb
+F:\Prashant\Application\Website\bin\ExceptionLayer.pdb
+F:\Prashant\Application\Website\bin\ResourceLayer.pdb
+F:\Prashant\Application\Website\bin\UtilityLayer.pdb
+F:\Prashant\Application\Website\bin\Antlr3.Runtime.pdb
+F:\Prashant\Application\Website\bin\EntityFramework.xml
+F:\Prashant\Application\Website\bin\EntityFramework.SqlServer.xml
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Prashant\Application\Website\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Google.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Prashant\Application\Website\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Prashant\Application\Website\bin\Newtonsoft.Json.xml
+F:\Prashant\Application\Website\bin\System.Web.Helpers.xml
+F:\Prashant\Application\Website\bin\System.Web.Mvc.xml
+F:\Prashant\Application\Website\bin\System.Web.Optimization.xml
+F:\Prashant\Application\Website\bin\System.Web.Razor.xml
+F:\Prashant\Application\Website\bin\System.Web.WebPages.xml
+F:\Prashant\Application\Website\bin\System.Web.WebPages.Deployment.xml
+F:\Prashant\Application\Website\bin\System.Web.WebPages.Razor.xml
+F:\Prashant\Application\Website\bin\DataLayer.pdb
+F:\Prashant\Application\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+F:\Prashant\Application\Website\obj\Debug\Website.dll
+F:\Prashant\Application\Website\obj\Debug\Website.pdb

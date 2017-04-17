@@ -1,0 +1,27 @@
+﻿@model EntityLayer.tblUserMaster
+@using UtilityLayer
+
+@if (Model != null)
+{
+    <tr id="tr_node_@Model.Id">
+        <td>
+            @Html.DisplayFor(model => model.Id)
+        </td>
+        <td>
+            @WebUtility.HtmlDecode(Model.FirstName)
+        </td>
+        <td>
+            @WebUtility.HtmlDecode(Model.LastName)
+        </td>
+        <td>
+            @WebUtility.HtmlDecode(Model.EmailId)
+        </td>
+        <td>
+            @Ajax.ActionLink(Enum.GetName(typeof(DBEnum.DBStatus), (Convert.ToInt16(Model.Status))), "UpdateStatus", "User", new { id = Model.Id }, new AjaxOptions { UpdateTargetId = "Status_" + Model.Id, OnBegin = "onBegin", OnComplete = "onComplete" }, new { id = "Status_" + Model.Id, @class = "label label-info arrowed arrowed-in-right" })
+        </td>
+        <td id="td_node_@Model.Id">
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id, current_page = ViewBag.CurrentPage }, new { @class = "label label-success arrowed-in arrowed-in-right" }) |
+            @Ajax.ActionLink("Delete", "Delete", new { id = Model.Id }, new AjaxOptions { UpdateTargetId = "td_node_" + Model.Id, OnBegin = "confirmDelete", OnComplete = "DeleteCompleted('td_node_" + Model.Id + "')" }, new { @class = "label label-success arrowed-in arrowed-in-right" })
+        </td>
+    </tr>
+}

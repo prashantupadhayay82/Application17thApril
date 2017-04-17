@@ -1,0 +1,19 @@
+﻿@using Website.Models
+@using UtilityLayer
+
+@if (ViewData[StringUtility.VDPager] != null)
+{
+    PaginationModel model = (ViewData["VDPager"]) as PaginationModel;
+    <div class="text-center">
+        @Html.Hidden("page", 1)
+        <ul class="pagination">
+            @Html.Pager(model.CurrentPage, model.ItemsPerPage, model.TotalItems)
+        </ul>
+    </div>
+    <script language="javascript" type="text/javascript">
+        $(".pagination a").click(function () {
+            $(this).closest("form").find("#page").val($(this).attr("page-number"));
+            $(this).closest("form").submit();
+        });
+    </script>
+}

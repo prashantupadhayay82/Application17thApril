@@ -1,0 +1,129 @@
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Nomadoo\Codebase\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Project\Nomadoo\Codebase\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Project\Nomadoo\Codebase\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Project\Nomadoo\Codebase\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Project\Library\OldStructure\BaseStructure\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Project\Library\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Project\Library\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Project\Library\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Library\InitialStructure\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Home Project\New folder\InitialStructure\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Home Project\New folder\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Home Project\New folder\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Home Project\New folder\InitialStructure\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\CustomAuth.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\ExceptionLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\CustomAuth.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\ExceptionLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Sample Project\New folder\BusinessLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\New folder\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\New folder\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Sample Project\New folder\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\CustomAuth.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\ExceptionLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\ResourceLayer.dll
+D:\Sample Project\Application\BusinessLayer\bin\Debug\CustomAuth.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\ExceptionLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Sample Project\Application\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sample Project\Application\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Sample Project\Application\BusinessLayer\bin\Debug\ResourceLayer.pdb
+D:\Sample Project\Application\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Sample Project\Application\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Sample Project\Application\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\CustomAuth.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\ExceptionLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\UtilityLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\System.Web.Mvc.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\ResourceLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\CustomAuth.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\ExceptionLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\UtilityLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\System.Web.Mvc.xml
+D:\Ravi\Project\Project structure\Application\BusinessLayer\bin\Debug\ResourceLayer.pdb
+D:\Ravi\Project\Project structure\Application\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Ravi\Project\Project structure\Application\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Ravi\Project\Project structure\Application\BusinessLayer\obj\Debug\BusinessLayer.pdb
